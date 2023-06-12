@@ -4,7 +4,8 @@
 Shell script contains a series of commands into a single script that need to be executed by a shell a command-line interpreter ,which 
 ultimately helps to automate the repetative tasks of developers.
 
-##Script Explaination
+##Script Explaination:
+
 Here in the below pitcure contains commands written to create a database and a table in that database with columns as per the requirement.
 And it also inserts data into that table.
 
